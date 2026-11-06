@@ -8,4 +8,10 @@ public class Hello {
     public void testTwo() {
         // this is testing something ....
     }
+
+    public void testThree() {
+        // this is testing something 3....
+    }
+
+
 }
