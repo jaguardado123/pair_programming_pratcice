@@ -12,6 +12,8 @@ public class Hello {
     public void testThree() {
         // this is testing something 3....
     }
-
+    public void testFour() {
+        // this is testing something 3....
+    }
 
 }
