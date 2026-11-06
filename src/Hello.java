@@ -16,4 +16,8 @@ public class Hello {
         // this is testing something 3....
     }
 
+    public void integrationTest() {
+        // ......
+    }
+
 }
