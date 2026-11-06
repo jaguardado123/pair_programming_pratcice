@@ -5,5 +5,7 @@ public class Hello {
         // this is testing something ....
     }
 
-
+    public void testTwo() {
+        // this is testing something ....
+    }
 }
